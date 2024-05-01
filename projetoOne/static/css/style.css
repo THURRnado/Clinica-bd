@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+table{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.input-group{
+    width: 40%;
+    margin-top: 15px;
+}
+
+/*Tela de inicio*/
+#navbar_inicio{
+    margin-left: 10px;
+}
